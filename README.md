@@ -3,7 +3,7 @@
 ## About
 
 The backend for a todo/habit app built with php/laravel and MySQL, with PHPUnit tests
-Frontend is here: https://github.com/GeorgeHarland/RTHG-todo-frontend
+Frontend is here: [https://github.com/GeorgeHarland/RTHG-todo-frontend](https://github.com/GeorgeHarland/routine-frontend)
 
 ## Setup
 
