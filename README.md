@@ -18,6 +18,7 @@ Frontend is here: https://github.com/GeorgeHarland/RTHG-todo-frontend
 - generate app key using `php artisan key:generate`
 
 #### Local database setup
+- Run a MySQL server on XAMPP
 - Set up the database tables with `php artisan migrate`
 
 #### Local server
